@@ -11,7 +11,7 @@
  */
 import {join} from "path";
 import {existsSync} from "fs";
-import {definePlugin,Structs,NCWebsocket} from "../../src/index.js";
+import {definePlugin,Structs,NCWebsocket} from "cyberbot-core";
 import {exec} from "child_process";
 import {promisify} from "util";
 import * as os from 'os'

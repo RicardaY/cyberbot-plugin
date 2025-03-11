@@ -1,4 +1,4 @@
-import {definePlugin, Structs, http, AllHandlers, CyberPluginContext, ExtendedEvent, CyberMessageEvent} from "../../src"
+import {definePlugin, Structs, http, AllHandlers, CyberPluginContext, ExtendedEvent, CyberMessageEvent} from "cyberbot-core"
 import OpenAI from "openai";
 
 

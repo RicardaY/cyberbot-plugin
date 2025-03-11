@@ -1,4 +1,4 @@
-import {definePlugin, Structs, http, Send} from "../../src"
+import {definePlugin, Structs, http, Send} from "cyberbot-core"
 import { isRegexString, isImageUrl, writeConfigToFile, readConfigFromFile } from './helper'
 import * as path from 'path'
 

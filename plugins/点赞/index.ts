@@ -1,5 +1,4 @@
-import {Structs} from "node-napcat-ts";
-import {log, definePlugin} from "../../src";
+import {log, definePlugin, Structs} from "cyberbot-core";
 
 export default definePlugin({
   name: "点赞",

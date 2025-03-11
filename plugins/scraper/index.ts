@@ -1,4 +1,4 @@
-import {definePlugin, Structs, http} from "../../src"
+import {definePlugin, Structs, http} from "cyberbot-core"
 import { fetchLatestNotice } from './helper'
 import * as cheerio from 'cheerio';
 

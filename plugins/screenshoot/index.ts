@@ -1,4 +1,4 @@
-import {definePlugin, Structs, http, CyberMessageEvent, CyberPluginContext} from "../../src"
+import {definePlugin, Structs, http, CyberMessageEvent, CyberPluginContext} from "cyberbot-core"
 import { Buffer } from 'buffer';
 
 const TIMEOUT = 20000; // 10秒超时时间

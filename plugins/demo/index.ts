@@ -1,4 +1,4 @@
-import {definePlugin, Structs, http} from "../../src"
+import {definePlugin, Structs, http} from "cyberbot-core"
 
 export default definePlugin({
   // 插件名应和文件名一致, 不然可能会出问题

@@ -1,5 +1,5 @@
 import { Structs } from "node-napcat-ts";
-import {definePlugin} from "../../src/"
+import {definePlugin} from "cyberbot-core"
 
 export default definePlugin({
     name: "bot管理",
